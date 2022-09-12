@@ -24,10 +24,10 @@ through one mobile app.
 
 *Screenshot of UI*
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90142607/180664987-8a7fd7a0-eeba-4dec-990c-c43f6a8b43a8.jpg" width="180" height="390" />
-<img src="https://user-images.githubusercontent.com/90142607/180665000-21a40705-dde0-4077-a6c2-5bfc9447a7ff.jpg" width="180" height="390" />
-<img src="https://user-images.githubusercontent.com/90142607/180664990-c479e82c-f032-4e0e-8bf8-bbce73b4d0a8.jpg" width="180" height="390" />
-<img src="https://user-images.githubusercontent.com/90142607/180664996-8970aff4-7d2c-4437-b7d5-7d954611ebbb.jpg" width="180" height="390" />
+<img src="https://user-images.githubusercontent.com/90142607/189741746-813a4646-ac56-4820-96bb-8bc1338e8402.png" width="180" height="390" />
+<img src="https://user-images.githubusercontent.com/90142607/189741761-edd14bc8-9c75-4490-ae4b-9b4378423018.png" width="180" height="390" />
+<img src="https://user-images.githubusercontent.com/90142607/189741768-f112ad25-16e8-4cee-b9e9-54fd4ab1405f.png" width="180" height="390" />
+<img src="https://user-images.githubusercontent.com/90142607/189741773-d1b5f4bf-7d64-4b50-a1ea-146f4a9f2939.png" width="180" height="390" />
 </div>
 
 ---
